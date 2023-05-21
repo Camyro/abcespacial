@@ -48,12 +48,21 @@ p{
    width: 100%;
 }
 
-p, h1, h2{
+p, h1, h2, h3{
     padding: 0px 50px;
 }
 
-h1, h2{
+h1, h2, h3, .p{
     text-align: center;
+}
+
+a{
+    color: #000;
+    text-decoration: none;
+}
+
+a:hover{
+    color: red;
 }
 
 @media screen and (max-width: 1054px) {
