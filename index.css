@@ -2,7 +2,6 @@ body, html{
     height: 100%;
     width: 100%;
     margin: 0px;
-    background-image: linear-gradient(#173d00, #0060a0);
     font-family: Arial, Helvetica, sans-serif;
     color: #000;
 }
