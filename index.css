@@ -35,6 +35,10 @@ a{
     top: 0%;
 }
 
+h1, h2, h3, .p{
+    text-align: center;
+}
+
 @media screen and (max-width: 1054px) {
     .video{
         height: 100%;
